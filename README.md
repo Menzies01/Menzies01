@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Menzies
-- 👀 I’m interested in Web development and application development
+- 👀 I’m interested in Network and Information Security
 - 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on Java, C++, Javascript and PHP projects 
+- 💞️ I’m looking to collaborate on Java, C++, Javascript, Python and PHP projects 
 - 📫 How to reach me dlaminispacebar@gmail.com
 - 😄 Pronouns: He/Him
 
