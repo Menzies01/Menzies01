@@ -23,17 +23,7 @@
 - **System & Network Tools:** Linux, Windows Server, Cisco Networking  
 - **Other Tools:** Git, VS Code  
 
----
-
-## 📂 Projects 
-
----
-
-## 📊 GitHub Stats
-![Menzies' GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
+ 
 ## 📫 Contact
 - 📧 Email: dlaminispacebar@gmail.com
 
