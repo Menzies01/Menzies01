@@ -36,7 +36,6 @@
 
 ## 📫 Contact
 - 📧 Email: dlaminispacebar@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 
 
 ---
