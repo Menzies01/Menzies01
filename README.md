@@ -8,11 +8,10 @@
 
 ---
 
-## 🔎 About Me
-- 🖥️ Experienced in **system & network administration**: managing servers, networks, and ensuring secure access.  
+## 🔎 About Me  
 - 🌐 Building projects in **web development**: creating user-friendly applications with modern frameworks.  
 - 🗄️ Strong foundation in **databases**: designing schemas, writing queries, and optimizing performance.  
-- 🌱 Currently learning **cloud computing (AWS/Azure)** to integrate all these skills into scalable solutions.  
+
 
 ---
 
