@@ -1,39 +1,128 @@
-- 👋 Hi, I’m @Menzies
-- 👀 I’m interested in Systems management and Computer Security
-- 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on Java, C++, Javascript, Python and PHP projects 
-- 🎓 Final-year IT student passionate about building and managing complete IT solutions — from analyzing requirements to deploying secure systems.  
-- 💡 My interests span **systems analysis**, **system & network administration**, **web development**, and **databases**.  
-- 🚀 I aim to become an IT Solutions Engineer who bridges the gap between software and infrastructure.
+# Hi, I'm Menzies Dlamini
+
+**BSc Information Technology Graduate | Software Development | ICT & Systems | IT Operations**
+
+I’m an Information Technology graduate interested in building, supporting, and improving practical technology solutions. My interests span **software development, systems analysis, enterprise IT, system administration, networking, databases, data analysis, and IT security**.
+
+I enjoy understanding how different parts of an IT environment work together — from the application and database layer to the underlying systems, networks, and infrastructure that support them.
 
 ---
 
-## 🔎 About Me  
-- 🌐 Building projects in **web development**: creating user-friendly applications with modern frameworks.  
-- 🗄️ Strong foundation in **databases**: designing schemas, writing queries, and optimizing performance.  
+## 🔎 About Me
 
+* 🎓 **BSc Information Technology graduate** from the University of Eswatini.
+* 💻 Interested in **software development**, particularly web applications, backend development, and building practical systems.
+* 🖥️ Interested in **enterprise IT and systems**, including system administration, IT support, infrastructure, and information systems.
+* 🌐 Developing practical knowledge in **networking**, network troubleshooting, and network monitoring.
+* 🗄️ Working with **relational databases** and interested in data analysis and information management.
+* 🔐 Interested in **IT security, digital forensics, auditing, and secure system design**.
+* 🛠️ I use personal, academic, and practical projects to strengthen my understanding of how technology works beyond theory.
+
+My approach to IT is not limited to a single discipline. I’m interested in understanding the relationship between **software, systems, networks, data, and the people who use them**.
 
 ---
 
-## 🛠️ Skills
-- **Programming:** Python, Java, C++  
-- **Web Development:** HTML, CSS, JavaScript, React  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **System & Network Tools:** Linux, Windows Server, Cisco Networking  
-- **Other Tools:** Git, VS Code  
+## 💻 Technical Interests
 
- 
+### Software Development
+
+* Python
+* JavaScript
+* C++
+* Java
+* PHP
+* HTML & CSS
+* React
+* Backend and web application development
+
+### Systems & Enterprise IT
+
+* Windows
+* Linux
+* Active Directory
+* Windows deployment
+* IT support and troubleshooting
+* Workstation configuration
+* VPN support
+* System administration
+* Technical documentation
+
+### Networking
+
+* TCP/IP
+* LAN/WAN
+* DHCP
+* DNS
+* Network troubleshooting
+* Cisco networking
+* Cisco Packet Tracer
+* Network monitoring and management
+
+### Databases & Data
+
+* PostgreSQL
+* MySQL
+* SQL
+* MongoDB
+* Database design
+* Query development
+* Data analysis
+
+### Security & IT Operations
+
+* IT security fundamentals
+* Digital forensics
+* IT auditing
+* Infrastructure security
+* System and network monitoring
+* Secure system design
+
+### Tools & Technologies
+
+* Git & GitHub
+* Linux
+* Windows
+* VMware
+* Visual Studio Code
+* Microsoft SQL Server
+* Power BI
+* OMNeT++ / INET
+
+---
+
+## 🚀 Projects
+
+I use this repository to document projects that reflect both my technical interests and practical development.
+
+My work includes projects involving:
+
+* **Web application development**
+* **Network management and monitoring**
+* **Database design and SQL**
+* **Network simulation**
+* **Systems analysis and design**
+* **IT infrastructure and networking**
+* **Data analysis and visualisation**
+* **Security and digital forensics**
+
+I aim to keep projects documented with their purpose, technologies, implementation approach, and lessons learned rather than simply presenting the finished code.
+
+---
+
+## 🎯 What I'm Working Towards
+
+I’m building toward a career where I can work across **software and enterprise IT environments**, with particular interest in roles involving software development, ICT systems, IT operations, systems analysis, and infrastructure.
+
+Long term, I want to develop into a well-rounded IT professional capable of understanding a problem from the **application layer through to the underlying infrastructure** and contributing to practical, reliable, and secure solutions.
+
+---
+
 ## 📫 Contact
-- 📧 Email: dlaminispacebar@gmail.com
 
+* 📧 **Email:** [dlaminispacebar@gmail.com](mailto:dlaminispacebar@gmail.com)
+* 💼 **LinkedIn:** [Add your LinkedIn profile here]
+* 🐙 **GitHub:** [Menzies01](https://github.com/Menzies01)
 
 ---
 
-✨ *I believe IT isn’t just about coding or configuring systems — it’s about integrating software, networks, and data into solutions that truly work for people.*
-
-
-
-<!---
-Menzies01/Menzies01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> *IT is not just about writing code or configuring infrastructure. It is about understanding how technology, data, systems, and people come together to solve real problems.*
