@@ -120,7 +120,6 @@ Long term, I want to develop into a well-rounded IT professional capable of unde
 ## 📫 Contact
 
 * 📧 **Email:** [dlaminispacebar@gmail.com](mailto:dlaminispacebar@gmail.com)
-* 💼 **LinkedIn:** [Add your LinkedIn profile here]
 * 🐙 **GitHub:** [Menzies01](https://github.com/Menzies01)
 
 ---
