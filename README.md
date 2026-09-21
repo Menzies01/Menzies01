@@ -1,6 +1,6 @@
 # Hi, I'm Menzies Dlamini
 
-**BSc Information Technology Graduate | Software Development | ICT & Systems | IT Operations**
+**BSc Information Technology Graduate | Software Development | Data Analysis & Reporting | ICT & Systems | IT Operations**
 
 I’m an Information Technology graduate interested in building, supporting, and improving practical technology solutions. My interests span **software development, systems analysis, enterprise IT, system administration, networking, databases, data analysis, and IT security**.
 
