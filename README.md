@@ -14,7 +14,7 @@ I enjoy understanding how different parts of an IT environment work together —
 * 💻 Interested in **software development**, particularly web applications, backend development, and building practical systems.
 * 🖥️ Interested in **enterprise IT and systems**, including system administration, IT support, infrastructure, and information systems.
 * 🌐 Developing practical knowledge in **networking**, network troubleshooting, and network monitoring.
-* 🗄️ Working with **relational databases** and interested in data analysis and information management.
+* 🗄️ Working with **relational databases** and interested in data analysis, management information systems.
 * 🔐 Interested in **IT security, digital forensics, auditing, and secure system design**.
 * 🛠️ I use personal, academic, and practical projects to strengthen my understanding of how technology works beyond theory.
 
