@@ -122,6 +122,3 @@ Long term, I want to develop into a well-rounded IT professional capable of unde
 * 📧 **Email:** [dlaminispacebar@gmail.com](mailto:dlaminispacebar@gmail.com)
 * 🐙 **GitHub:** [Menzies01](https://github.com/Menzies01)
 
----
-
-> *IT is not just about writing code or configuring infrastructure. It is about understanding how technology, data, systems, and people come together to solve real problems.*
